@@ -64,7 +64,7 @@ export const projects: Project[] = [
       "/design/project4-1.jpg",
       "/design/project4-2.jpg",
       "/design/project4-3.jpg",
-      "/design/project4-4.jpeg",
+      "/design/project4-4.jpg",
     ],
     featured: true,
     category: "design",
@@ -84,7 +84,7 @@ export const projects: Project[] = [
     images: [
       "/design/project5-1.jpg",
       "/design/project5-2.jpg",
-      "/design/project5-3.jpeg",
+      "/design/project5-3.jpg",
       "/design/project5-4.jpg",
     ],
     featured: true,
@@ -104,7 +104,7 @@ export const projects: Project[] = [
     image: "/design/project6-1.jpg",
     images: [
       "/design/project6-1.jpg",
-      "/design/project6-2.jpeg",
+      "/design/project6-2.jpg",
     ],
     featured: true,
     category: "design",
